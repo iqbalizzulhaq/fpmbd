@@ -79,10 +79,16 @@ Route::get('/mbd', function () {
     return view('mbd.mbd');
 });
 
+Route::get('/pegawai', function () {
+    return view('mbd.pegawai');
+});
+Route::get('/pemesan', function () {
+    return view('mbd.pemesan');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
-Route::get('/tabel_pemesan', 'HomeController@pemesan');
-Route::get('/tabel_transaksi', 'HomeController@transaksi');
+
 // Route::get('/mbd', 'HomeController@mbd');
 Route::post('/store','HomeController@store')->name('store.trolly');
