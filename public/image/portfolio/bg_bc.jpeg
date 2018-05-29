@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://tadprintingproducts.co.za/xmlrpc.php">
+
+    <!-- Favicons
+    ================================================== -->
+        	
+    	    		<link rel="icon" href="https://tadprintingproducts.co.za/wp-content/uploads/2016/05/favicon.jpg" type="image/x-icon">    
+            
+<title>print-background - TAD Printing Products</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://tadprintingproducts.co.za/about-us/print-background/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="print-background - TAD Printing Products" />
+<meta property="og:url" content="https://tadprintingproducts.co.za/about-us/print-background/" />
+<meta property="og:site_name" content="TAD Printing Products" />
+<meta property="og:image" content="https://tadprintingproducts.co.za/wp-content/uploads/2016/01/print-background.jpg" />
+<meta property="og:image:secure_url" content="https://tadprintingproducts.co.za/wp-content/uploads/2016/01/print-background.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="print-background - TAD Printing Products" />
+<meta name="twitter:image" content="https://tadprintingproducts.co.za/wp-content/uploads/2016/01/print-background.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="TAD Printing Products &raquo; Feed" href="https://tadprintingproducts.co.za/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TAD Printing Products &raquo; Comments Feed" href="https://tadprintingproducts.co.za/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TAD Printing Products &raquo; print-background Comments Feed" href="https://tadprintingproducts.co.za/about-us/print-background/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.5 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_track_user = true;
+	
+	var disableStr = 'ga-disable-UA-81005353-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-81005353-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you\'re not being tracked. ");
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+		})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tadprintingproducts.co.za\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://tadprintingproducts.co.za/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-facebook-likebox-plugin-styles-css'  href='https://tadprintingproducts.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/css/public.css?ver=4.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-facebook-likebox-font-awesome-css'  href='https://tadprintingproducts.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/css/font-awesome.css?ver=4.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-facebook-likebox-animate-css'  href='https://tadprintingproducts.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/css/animate.css?ver=4.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-facebook-likebox-popup-styles-css'  href='https://tadprintingproducts.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/popup/magnific-popup.css?ver=4.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://tadprintingproducts.co.za/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.6.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='gocargo-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C300italic%2C400italic%2C700%2C700italic%2C900%2C900italic%7CLato%3A400%2C300%2C300italic%2C400italic%2C700%2C700italic%2C900%2C900italic%7CMontserrat%3A400%2C700%7CRoboto%2BSlab%3A400%2C300%2C700%7CMerriweather%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='gocargo-bootstrap-css'  href='https://tadprintingproducts.co.za/wp-content/themes/gocargo/css/bootstrap.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gocargo-font-awesome-css'  href='https://tadprintingproducts.co.za/wp-content/themes/gocargo/fonts/font-awesome/css/font-awesome.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gocargo-et-line-font-css'  href='https://tadprintingproducts.co.za/wp-content/themes/gocargo/fonts/et-line-font/style.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gocargo-owl-carousel-css'  href='https://tadprintingproducts.co.za/wp-content/themes/gocargo/css/owl.carousel.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gocargo-owl-theme-css'  href='https://tadprintingproducts.co.za/wp-content/themes/gocargo/css/owl.theme.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gocargo-owl-transitions-css'  href='https://tadprintingproducts.co.za/wp-content/themes/gocargo/css/owl.transitions.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gocargo-animate-css'  href='https://tadprintingproducts.co.za/wp-content/themes/gocargo/css/animate.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gocargo-let-it-snow-css'  href='https://tadprintingproducts.co.za/wp-content/themes/gocargo/css/let-it-snow.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gocargo-magnific-css-css'  href='https://tadprintingproducts.co.za/wp-content/themes/gocargo/css/magnific-popup.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gocargo-style-css'  href='https://tadprintingproducts.co.za/wp-content/themes/gocargo-child/style.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gocargo-rev-settings-css'  href='https://tadprintingproducts.co.za/wp-content/themes/gocargo/css/rev-settings.css?ver=4.9.5' type='text/css' media='all' />
+            <script>
+                if (document.location.protocol != "https:") {
+                    document.location = document.URL.replace(/^http:/i, "https:");
+                }
+            </script>
+            <script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/tadprintingproducts.co.za","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.0.5'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/popup/jquery.magnific-popup.min.js?ver=4.3.5'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/js/jquery.cookie.js?ver=4.3.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var public_ajax = {"ajax_url":"https:\/\/tadprintingproducts.co.za\/wp-admin\/admin-ajax.php"};
+var public_ajax = {"ajax_url":"https:\/\/tadprintingproducts.co.za\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/js/public.js?ver=4.3.5'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.1'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.1'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/owl.carousel.js?ver=20151228'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAvpnlHRidMIU374bKM5-sx8ruc01OvDjI&#038;ver=20151228'></script>
+<link rel='https://api.w.org/' href='https://tadprintingproducts.co.za/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tadprintingproducts.co.za/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://tadprintingproducts.co.za/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.5" />
+<link rel='shortlink' href='https://tadprintingproducts.co.za/?p=448' />
+<link rel="alternate" type="application/json+oembed" href="https://tadprintingproducts.co.za/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftadprintingproducts.co.za%2Fabout-us%2Fprint-background%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://tadprintingproducts.co.za/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftadprintingproducts.co.za%2Fabout-us%2Fprint-background%2F&#038;format=xml" />
+        
+    <style type="text/css">     
+      /* 01 MAIN STYLES
+      ****************************************************************************************************/
+      ::selection {
+        color: #fff;
+        background: #005087;
+      }
+      ::-moz-selection {
+        color: #fff;
+        background: #005087;
+      }      
+
+      header{
+                  background-color:#0d447d;
+              }
+      header.smaller, header.cbp-af-header-shrink{
+                  background-color:#18191b;
+         
+      }
+      #mainmenu a{color: #ffffff;}
+      header.cbp-af-header-shrink #mainmenu a{color: #ffffff;}
+
+      #mainmenu > li.current-menu-item > a, nav ul#mainmenu > li.current-menu-ancestor > a {color: #005087;}
+      #mainmenu li.current-menu-ancestor li.current-menu-item a {background-color:#005087;}
+
+      
+      @media (max-width: 992px) {
+        header.cbp-af-header, #mainmenu li li, header.cbp-af-header-shrink {
+          background-color:#ffffff;
+        }
+                  #mainmenu li {border-bottom-color:#eeeeee;}
+          #mainmenu > li li:first-child {border-top-color:#eeeeee;}
+          #mainmenu li ul {border-top-color:#eeeeee;} 
+        
+        #mainmenu li:hover{background-color:#005087;}
+        #mainmenu li a, #mainmenu li li > a:after{
+          color: #555555 !important;
+        }
+      }
+
+      /* Customize Sub Header on Top Page */
+      
+      a,
+      .id-color,
+      .list-2-col li:hover a,
+      .list-2-col li:hover:before,
+      .twitter-widget li a,
+      #subheader h1.page-title,
+      .counter .num,
+      h1.id-color,h2.id-color,
+      .team-list .name,
+      .timeline-year .date,
+      footer .social i:hover,
+      #mainmenu li:hover a,
+      .news-item .fa,
+      .pagination li a, header .social a, .feature-box i,
+      .team-social-icons i, .date-box, .news-item.style-3 .date, header .search-form:before, .info-box i,
+      .news-item.style-2 a:hover h4, .btn-open-map span.url, header .info ul.info-list li i, .news-item.style-3 a:hover h4,
+      .id-color h2, .title-with-icon-box > i, #mainmenu a.mPS2id-highlight, header.cbp-af-header-shrink #mainmenu a.mPS2id-highlight,
+      .exo_tab .exo_nav .nav-item > div h5
+      {color:#005087;}
+
+      .divider-deco span,
+      .box-icon-small i ,
+      .tiny-border,
+      .bg-color,
+      .btn-custom,
+      .news-list-date .date,
+      .feature-box.icon-square > i,
+      .owl-custom-nav .btn-next:before,
+      .owl-custom-nav .btn-prev:before,
+      #testi-carousel-2 blockquote, .testi-carousel-2 blockquote,
+      .owl-theme .owl-controls .owl-page.active span,
+      .awards-carousel .overlay,
+      .side-nav li.active,
+      .testi-box-1 blockquote,
+      .simple-form input[type=submit],
+      .btn-expand:before,
+      .faq .icon-search,
+      #mainmenu li li a:hover,
+      .pagination li.active a,
+      .news-item .quote,
+      .ex-gallery .small-border,
+      #menu-btn , .news-item.style-2 .date,
+      .timeline.custom-tl > li > .timeline-badge,
+      ul.progress li.active,
+      ul.progress li.beforeactive:before,
+      .small-border, .social-icons i, .icon-big,
+      .call-to-action, a.btn-slider, .h-line, .preview2 .bloglist-small .date-box, 
+      .preview2 .testi-carousel-2 blockquote,
+      .widget_nav_menu ul li.current-menu-item, .widget_search #btn-search,
+      .pagination li.active a, .pagination li span.current, 
+      .footer-widget .newsletter-widget form .newsletter-submit,
+      #back-to-top, .bloglist-small .date-box, .cta-form input[type=submit], .cta-form button,
+      .owl-theme .owl-controls .owl-page.active span, .form-border.s1 .wpcf7-submit,
+      .footer-col .newsletter .tnp-button
+      {background-color:#005087;}
+
+      .line-deco span:before,
+      .line-deco span:after,
+      .box-icon-small .btn-arrow span.line,
+      .sub-intro-text span:before,
+      .sub-intro-text span:after,
+      .crumb span:before,
+      .crumb span:after,
+      .pagination li.active a, .social-icons i, .social-icons i:hover, .feature-box i.icon-s1, 
+      .form-border.s1 .wpcf7-form-control:focus, .widget_search #search:focus, input[type="text"]:focus, 
+      input[type="email"]:focus, textarea:focus, .form-border.s1 .wpcf7-submit
+      {border-color:#005087;}
+
+      .bg_transparent.vc_tta.vc_general .vc_tta-panel, .box-with-icon-left .text {border-left-color:#005087;}
+      ul.progress li.active:after {
+        border-color: transparent transparent transparent #005087;
+      }
+      .preview2 .arrow-down{
+        border-top: 5px solid #005087;
+      }
+      .team-profile .text, .btn-open-map span.line {border-top-color: #005087;}
+      .widget_search #search:focus, .pagination li.active a, .pagination li span.current {border-color: #005087;}
+
+      .preview1 .bloglist-small .date-box {background-color: #eee;}
+
+      .exo_tab.tab_map .exo_nav .nav-item > div.active, .exo_tab.tab_map .exo_nav .nav-item > div:hover {
+        border-bottom-color: #005087;
+      }
+
+      /**** Custom CSS Footer ****/      
+      #mainmenu a {
+    display: block;
+    padding: 10px 16px 8px 14px;
+    text-decoration: none;
+    color: #fff;
+}
+header .social a {
+    color: #fff;
+    font-size: 18px;
+    padding: 0 8px 0 8px;
+}
+.typed-cursor{
+    opacity: 0;
+    animation: none;
+}
+.box-one-third.services-box{float:none;display: table-cell;}
+@media (max-width: 992px) {.box-one-third.services-box{float:left;display: block;}}
+header.clone #mainmenu a {
+    color: #fff;
+}
+header {
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+    height: 65px;
+}
+#mainmenu-container {
+    font-family: "Montserrat";
+    text-align: center;
+    height: 60px;
+    margin-top: 2px;
+    display: inline-block;
+    font-weight: bold;
+}
+#logo .inner {
+    display: table-cell;
+    vertical-align: middle;
+    height: 6px;
+}
+#logo {
+    text-align: -webkit-right;
+}
+#mainmenu li:hover a ,#mainmenu li.current-menu-item > a, nav ul#mainmenu > li.current-menu-ancestor > a, .mainmenu li.current-menu-item > a, nav ul.mainmenu > li.current-menu-ancestor > a{color: #FEF400 !important;}
+.team-profile .text {
+    margin: -0px 20px 0 20px !important;
+}
+header.clone {
+    width: 100%;
+    position: fixed;
+    top: -180px;
+    transition: 0.5s top ease-in;
+    margin-left: 0;
+    border-bottom: solid 1px #eee;
+    margin-top: 0;
+    background: #005087;
+}
+blockquote {
+    background: none;
+    margin: 1.5em 10px;
+    padding-left: 0;
+    font-family: 'Lato';
+    font-style: italic;
+    font-size: 20px;
+    padding: 0;
+}    </style>
+
+<!-- WordPress Facebook Integration Begin -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '299887496802231', {}, {
+    "agent": "wordpress-4.9.5-1.6.0"
+});
+
+fbq('track', 'PageView', {
+    "source": "wordpress",
+    "version": "4.9.5",
+    "pluginVersion": "1.6.0"
+});
+</script>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<!-- WordPress Facebook Integration end -->
+      
+<!-- Facebook Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=299887496802231&ev=PageView&noscript=1"/>
+</noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://tadprintingproducts.co.za/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.6.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+<style type="text/css" title="dynamic-css" class="options-output">footer h3, footerh4, footerh5, footer h6{color:#ffffff;}footer{color:#cccccc;}footer{background-color:#101314;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body data-rsssl=1 class="attachment attachment-template-default attachmentid-448 attachment-jpeg preview1 wpb-js-composer js-comp-ver-5.4.7 vc_responsive">
+    <div id="preloader"></div>
+<div id="wrapper">
+	<!-- header begin -->
+    <header class="overlay menu-back cbp-af-header site-header-1">
+        <div class="container">
+            <span id="menu-btn"></span>
+            <div class="row">
+                <div class="col-md-3">
+                    <!-- logo begin -->
+                    <div id="logo">
+                        <div class="inner">
+                            <a href="https://tadprintingproducts.co.za/">
+                                <img src="https://tadprintingproducts.co.za/wp-content/uploads/2017/11/TAD-new-logo.png" alt="" class="logo-1">
+                                <img src="https://tadprintingproducts.co.za/wp-content/uploads/2017/11/TAD-new-logo.png" alt="" class="logo-2">    
+                            </a>
+                        </div>
+                    </div>
+                    <!-- logo close -->
+                </div>
+
+                <div class="col-md-9">
+                    <!-- mainmenu begin -->
+                    <nav id="mainmenu-container">
+                    	<ul id="mainmenu"><li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-393"><a  title="Home" href="https://tadprintingproducts.co.za/">Home</a></li>
+<li id="menu-item-390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"><a  title="About Us" href="https://tadprintingproducts.co.za/about-us/">About Us</a></li>
+<li id="menu-item-489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-489 "><a  title="Our Products" href="#">Our Products <i class="fa fa-angle-down"></i></a>
+<ul role="menu" class="">
+	<li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-399"><a  title="IPAGSA Lithographic Plates" href="https://tadprintingproducts.co.za/services/ipagsa-lithographic-plates/">IPAGSA Lithographic Plates</a></li>
+	<li id="menu-item-398" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-398"><a  title="MacDermid Flexographic Plates" href="https://tadprintingproducts.co.za/services/mac-dermid-flexographic-plates/">MacDermid Flexographic Plates</a></li>
+</ul>
+</li>
+<li id="menu-item-726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-726 "><a  title="Our Partners" href="#">Our Partners <i class="fa fa-angle-down"></i></a>
+<ul role="menu" class="">
+	<li id="menu-item-727" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-727"><a  title="Systec Print Solutions" href="http://www.systecsolutions.com/index.html">Systec Print Solutions</a></li>
+</ul>
+</li>
+<li id="menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394"><a  title="News" href="https://tadprintingproducts.co.za/news/">News</a></li>
+<li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-582"><a  title="Gallery" href="https://tadprintingproducts.co.za/gallery/">Gallery</a></li>
+<li id="menu-item-546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-546"><a  title="Request a Quote" href="https://tadprintingproducts.co.za/get-a-quote/">Request a Quote</a></li>
+<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a  title="Contact" href="https://tadprintingproducts.co.za/contact/">Contact</a></li>
+</ul>                           
+                    </nav>
+                    <!-- mainmenu close -->
+
+                     
+                        <!-- social icons -->
+                        <ul class="social">
+                                                            
+                                                            
+                                                                                                                                                
+                              
+                                                                                                                    
+                                                           
+                              
+                                                                                                                                              
+                             
+                                                    </ul>
+                        <!-- social icons close -->
+                                    </div>
+            </div>
+        </div>
+    </header>
+    <!-- header close -->
+
+	<!-- subheader begin -->
+	<section id="subheader" class="page-news no-bottom" data-stellar-background-ratio="0.5" 
+		        
+	        	        	     >
+	    <div class="overlay">
+	        <div class="container">
+	            <div class="row">
+	                <div class="col-md-12">
+	                		                    	<h1>print-background  </h1>
+	                        <div class="small-border wow flipInY" data-wow-delay=".8s" data-wow-duration=".8s"></div>
+	                      
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</section>
+	<!-- subheader close -->
+
+	<div class="clearfix"></div>
+
+	<!-- content begin -->
+    <div id="content">
+        <div class="container">
+            <div class="row">               	         	
+                <div class="col-md-8">
+                    <div class="single_post">
+                                                	<div id="post-448" class="post-448 attachment type-attachment status-inherit hentry">
+								<p class="attachment"><a href='https://tadprintingproducts.co.za/wp-content/uploads/2016/01/print-background.jpg'><img width="300" height="109" src="https://tadprintingproducts.co.za/wp-content/uploads/2016/01/print-background-300x109.jpg" class="attachment-medium size-medium" alt="" srcset="https://tadprintingproducts.co.za/wp-content/uploads/2016/01/print-background-300x109.jpg 300w, https://tadprintingproducts.co.za/wp-content/uploads/2016/01/print-background-768x280.jpg 768w, https://tadprintingproducts.co.za/wp-content/uploads/2016/01/print-background.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+
+								
+<div id="comments" class="comments-area">
+
+		
+
+		    	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Post a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/about-us/print-background/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://tadprintingproducts.co.za/wp-comments-post.php" method="post" id="reply-form" class="comment-form" novalidate>
+				<textarea rows="10" cols="45" name="comment"  aria-required='true' id="comment" placeholder="Message" ></textarea><div class="three_columns clearfix"><div class="column1"><div class="column_inner"><input id="author" name="author" id="name" type="text" value="" placeholder="Name" /></div></div>
+<div class="column2"><div class="column_inner"><input value="" id="email" name="email" type="text" placeholder="Email" /></div></div>
+<div class="column3"><div class="column_inner"><input name="url" placeholder="WebSite" id="url" type="text" /></div></div></div>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="btn btn-custom" value="Post a comment" /> <input type='hidden' name='comment_post_ID' value='448' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="66cca980d2" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="61"/></p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- #comments -->
+															</div>
+						                    </div>                    
+                </div>
+
+                <div id="sidebar" class="col-md-4">                    
+                	
+<div id="secondary" class="widget-area" role="complementary">
+	<div id="search-2" class="widget widget_search"><form role="search" method="get" action="https://tadprintingproducts.co.za/" >  
+        <input type="search" id="search" class="search-field form-control" value="" name="s" placeholder="type to search&hellip;" />
+        <button id="btn-search" type="submit"></button>
+        <div class="clearfix"></div>
+    </form></div><div id="text-7" class="widget widget_text">			<div class="textwidget"><a href="https://www.facebook.com/tadprintingproducts/"><img alt="" <img src="https://tadprintingproducts.co.za/wp-content/uploads/2018/02/news-widget.jpg"></div>
+		</div><div id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-17"><a href="https://tadprintingproducts.co.za/category/print-industry-news/" >Print Industry News</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://tadprintingproducts.co.za/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</div>        <div id="recent-posts-3" class="widget widget_recent_entries">
+        <h3 class="widget-title">Latest News</h3>
+            <ul class="bloglist-small">  
+                               
+                    <li class="clearfix">
+                                                    <div class="date-box">
+                                <span class="day">16</span>
+                                <span class="month">Apr</span>
+                            </div>
+                                                <div class="txt">
+                            <h5><a href="https://tadprintingproducts.co.za/trelleborg/" title="Trelleborg">
+                            Trelleborg   </a></h5>
+                            Trelleborg&#8217;s Nicola Tugnoli brings blanket-related updates to...                        </div>
+                    </li>
+                               
+                    <li class="clearfix">
+                                                    <div class="date-box">
+                                <span class="day">19</span>
+                                <span class="month">Mar</span>
+                            </div>
+                                                <div class="txt">
+                            <h5><a href="https://tadprintingproducts.co.za/raising-image-flexo-platemaking/" title="Raising the Image of Flexo Platemaking">
+                            Raising the Image of Flexo Platemaking   </a></h5>
+                            Gill Loubser discovers that both quality of...                        </div>
+                    </li>
+                               
+                    <li class="clearfix">
+                                                    <div class="date-box">
+                                <span class="day">08</span>
+                                <span class="month">Feb</span>
+                            </div>
+                                                <div class="txt">
+                            <h5><a href="https://tadprintingproducts.co.za/tad-printing-products-wins-macdermid/" title="TAD Printing Products wins  with MacDermid">
+                            TAD Printing Products wins  with MacDermid   </a></h5>
+                            NEW sponsors in 2016, and appearing again...                        </div>
+                    </li>
+                    
+            </ul>            
+		
+        </div>        </div><!-- #secondary -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- content close -->
+
+
+         	<!-- footer begin -->
+        <footer >
+            
+                            <div class="main-footer">
+                    <div class="container">
+                        <div class="row">
+                            
+
+	<div class="col-md-4 col-sm-4">
+	    <div id="text-3" class="widget footer-widget widget_text"><h3>Our Products</h3><div class="tiny-border"></div>			<div class="textwidget"><ul>
+                            <li><a href="https://tadprintingproducts.co.za/services/mac-dermid-flexographic-plates/">Mac Dermid Flexographic Plates</a></li>
+                            <li><a href="https://tadprintingproducts.co.za/services/ipagsa-lithographic-plates/">IPAGSA Lithographic Plates </a></li>
+
+<li><a href="https://tadprintingproducts.co.za/services/business-partners/">Business Partners </a></li>
+                           
+                        </ul></div>
+		</div><div id="text-5" class="widget footer-widget widget_text"><h3>Opening Times</h3><div class="tiny-border"></div>			<div class="textwidget"><p>Monday - Friday 08:00 to 17:00</p>
+<a class="btn-border-light" href="https://tadprintingproducts.co.za/contact/">Contact Us Here</a></div>
+		</div><div id="text-6" class="widget footer-widget widget_text"><h3>Call Us &#8211; 021 931 2243</h3><div class="tiny-border"></div>			<div class="textwidget"></div>
+		</div>	</div>
+
+	<div class="col-md-4 col-sm-4">
+	    <div id="text-4" class="widget footer-widget widget_text"><h3>Location</h3><div class="tiny-border"></div>			<div class="textwidget">TAD Printing Products <br>
+6 Brands Hatch<br>
+Killarney Gardens<br>
+7441<br>
+enquiries@tadproducts.co.za<br>
+
+<div class="divider-single"></div>
+<div class="social-icons">
+                            <a href="https://www.facebook.com/tadprintingproducts/"><i class="fa fa-facebook"></i></a>
+     <a href="https://www.linkedin.com/company/17934801"><i class="fa fa-linkedin"></i></a>
+                            <a href="https://plus.google.com/b/102416709542893612356/102416709542893612356"><i class="fa fa-google-plus"></i></a>
+                            <a href="mailto:adrian@tadgroup.co.za"><i class="fa fa-envelope-o"></i></a>
+                        </div>
+</div>
+		</div>	</div>
+
+	<div class="col-md-4 col-sm-4">
+	    <div id="easy_facebook_page_plugin-2" class="widget footer-widget widget_easy_facebook_page_plugin"><h3>Like Us on Facebook</h3><div class="tiny-border"></div><div id="fb-root"></div>
+					<script>(function(d, s, id) {
+					  var js, fjs = d.getElementsByTagName(s)[0];
+					  if (d.getElementById(id)) return;
+					  js = d.createElement(s); js.id = id;
+					  js.async=true; 
+					  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=395202813876688";
+					  fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));</script> <div class="efbl-like-box 1">
+							<img class="efbl-loader" src="https://tadprintingproducts.co.za/wp-content/plugins/easy-facebook-likebox/public/assets/images/loader.gif" >
+							<div class="fb-page" data-animclass=" " data-href="https://www.facebook.com/tadprintingproducts" data-hide-cover=false data-width="350" data-height="" data-show-facepile=true  data-show-posts=false data-adapt-container-width=false data-hide-cta=false data-small-header="false">
+							</div> 
+							
+						</div>
+					</div>	</div>
+
+
+
+                        </div>    
+                    </div>
+                </div>
+                        
+            <div class="subfooter">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            © Copyright 2018 TAD Printing Products. All rights reserved.
+
+Powered by <a href="http://www.shiftdigital.co.za">Shift Digital Design</a>  
+                        </div>
+                    </div>
+                </div>
+            </div>            
+        </footer>    
+        <!-- footer close -->
+    
+</div><!-- #wrapper -->
+<a id="back-to-top" href="#" class="show"></a>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/tadprintingproducts.co.za\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/bootstrap.min.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/jquery.isotope.min.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/easing.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/ender.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/jquery.fitvids.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/wow.min.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/jquery.magnific-popup.min.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/jquery.stellar.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/typed.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/jquery.scrollto.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/classie.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/cbpAnimatedHeader.min.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/jquery.malihu.PageScroll2id.js?ver=20170424'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/let-it-snow.min.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/themes/gocargo/js/exotheme.js?ver=20151228'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-includes/js/comment-reply.min.js?ver=4.9.5'></script>
+<script type='text/javascript' src='https://tadprintingproducts.co.za/wp-includes/js/wp-embed.min.js?ver=4.9.5'></script>
+<script async="async" type='text/javascript' src='https://tadprintingproducts.co.za/wp-content/plugins/akismet/_inc/form.js?ver=4.0.3'></script>
+</body>
+</html>
