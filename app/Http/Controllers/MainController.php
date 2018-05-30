@@ -62,4 +62,8 @@ class MainController extends Controller
       return redirect()->route('show.trolly')->with(['success'=>'delete sukses']);
     }
 
+    // $query = DB::select(selext hhjkj);
+    // $query = DB::statement(selext hhjkj);
+    // $query = DB::unprepared(selext hhjkj);
+
 }

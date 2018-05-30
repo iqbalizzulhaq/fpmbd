@@ -96,3 +96,5 @@ Route::get('/trolly', 'MainController@show')->name('show.trolly');
 Route::get('/edit/{id}','MainController@edit')->name('edit.trolly');
 Route::put('/update','MainController@update')->name('update.trolly');
 Route::get('/delete/{id}','MainController@delete')->name('delete.trolly');
+
+Route::get('/trolly', 'MainController@select')->name('select.trolly');
