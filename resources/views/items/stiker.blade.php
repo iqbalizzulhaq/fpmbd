@@ -59,7 +59,7 @@
   <img src="image/portfolio/stiker3.jpeg" alt="" class="box-img">
   <h1>Square</h1>
 </div>
-<a href="#portfolio" class="btn btn-default btn-lg page-scroll">Buat sekarang</a>
+<a href="form_pembelian" class="btn btn-default btn-lg page-scroll">Buat sekarang</a> 
 
 <div class="section-title text-center center">
       <h2>Daftar Harga</h2>

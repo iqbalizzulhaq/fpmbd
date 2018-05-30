@@ -15,7 +15,7 @@
           <p>
        Cetakan berkualitas di merchandise dan produk promosi di E-print akan menjadi salah satu strategi marketing paling handal untuk bisnis Anda</p>
        <p>mulai dari <b>Rp </b>49.500pcs</p>
-          <a href="#portfolio" class="btn btn-default btn-lg page-scroll">Buat sekarang</a> </div>
+          <a href="form_pembelian" class="btn btn-default btn-lg page-scroll">Buat sekarang</a> 
       </div>
     </div>
   </div>

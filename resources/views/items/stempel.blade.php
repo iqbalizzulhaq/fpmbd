@@ -14,7 +14,7 @@
           <p>
         Menghadirkan kualitas stempel yang memuaskan dan memudahkan pekerjaan office anda</p>
         <p><b>mulai dari Rp 80.000/pcs</b></p>
-          <a href="#portfolio" class="btn btn-default btn-lg page-scroll">Buat sekarang</a> </div>
+          <a href="form_pembelian" class="btn btn-default btn-lg page-scroll">Buat sekarang</a> 
       </div>
     </div>
   </div>

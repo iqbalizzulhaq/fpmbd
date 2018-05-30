@@ -8,7 +8,7 @@
       <h2>Poster</h2>
       <hr>
       Menghadirkan kualitas cetak sempurna dengan bahan kertas terbaik untuk poster promosi Anda <br>
-      <a href="#portfolio" class="btn btn-default btn-lg page-scroll">Buat sekarang</a> 
+      <a href="form_pembelian" class="btn btn-default btn-lg page-scroll">Buat sekarang</a>  
 </div>
 
 <div class="section-title text-center center">

@@ -42,6 +42,6 @@
     </tr>
 </table>
 
-<a href=form_pembelian class="btn btn-default btn-lg page-scroll">Buat sekarang</a> </div>
+<a href="form_pembelian" class="btn btn-default btn-lg page-scroll">Buat sekarang</a> 
 
 @endsection

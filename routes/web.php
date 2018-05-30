@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/index', function () {
     return view('index');
 });
 
@@ -90,5 +90,9 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-// Route::get('/mbd', 'HomeController@mbd');
-Route::post('/store','HomeController@store')->name('store.trolly');
+Route::post('/store','MainController@store')->name('store.trolly');
+Route::get('/trolly', 'MainController@show')->name('show.trolly');
+
+Route::get('/edit/{id}','MainController@edit')->name('edit.trolly');
+Route::put('/update','MainController@update')->name('update.trolly');
+Route::get('/delete/{id}','MainController@delete')->name('delete.trolly');
