@@ -66,4 +66,22 @@ class MainController extends Controller
     // $query = DB::statement(selext hhjkj);
     // $query = DB::unprepared(selext hhjkj);
 
+
+    // iqbal 
+    // 1.trigeer
+
+    //2.Membuat fungsi untuk menghitung jumlah pendapatan pada tanggal tertentu
+    public function show(){ 
+    $query = DB::statement("SELECT DISTINCT tampil_pendapatan('2018-04-17') FROM transaksi");
+
+    }
+
+
+    //3.Membuat procedure untuk mengupdate total transaksi (denda 10%) bagi yang telat menggambil lebih dr 3 hari setelah tanggal jadi
+    $query = DB::statement("CALL update_total()");
+
+    //-- 4.Membuat index untuk tabel nama pemesan  berdasarkan tgl lahir
+    $table->index(['pem_tgl_lahir']);
+
 }
+
