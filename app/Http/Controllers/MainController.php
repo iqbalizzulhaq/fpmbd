@@ -22,9 +22,8 @@ class MainController extends Controller
         $trolly->no_rekening = $request->no_rekening;
         $trolly->nama = $request->nama;
         $trolly->total = $request->total;
-    
         if ($trolly->save()){
-          return view('trolly')->with('success', 'item berhasil ditambahkan');
+          return redirect('trolly')->with('success', 'item berhasil ditambahkan');
         }
   
       }
@@ -36,7 +35,7 @@ class MainController extends Controller
 
     public function edit($id){
       $trolly = Trolly::find($id);
-    	return view('edit')->with('trolly', $trolly);
+      return view('edit')->with('trolly', $trolly);
     }
 
     public function update(Request $request){
