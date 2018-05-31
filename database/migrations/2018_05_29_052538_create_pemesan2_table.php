@@ -20,7 +20,7 @@ class CreatePemesan2Table extends Migration
             $table->date('PEM_TGL_LAHIR');
             $table->string('PEM_ALAMAT');
             $table->string('PEM_NOTELP');
-            $table->timestamps();
+            $table->timestamps('TGL_PERUBAHAN');
             $table->string('STATUS');
         });
     }

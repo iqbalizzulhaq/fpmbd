@@ -19,10 +19,6 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 Route::post('/login','HomeController@login');
 
-Route::get('/coba', function () {
-    return view('coba');
-});
-
 Route::get('/pembelian', function () {
     return view('layouts.pembelian');
 });
@@ -102,3 +98,8 @@ Route::put('/update','MainController@update')->name('update.trolly');
 Route::get('/delete/{id}','MainController@delete')->name('delete.trolly');
 
 Route::get('/trolly', 'MainController@select')->name('select.trolly');
+
+Route::post('/iqbal', 'MainController@tanggal')->name('tanggal');
+Route::get('/iqbal', function () {
+    return view('iqbal');
+});
