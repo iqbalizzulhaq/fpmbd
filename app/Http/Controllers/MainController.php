@@ -80,11 +80,11 @@ class MainController extends Controller
     }
 
 
-    //3.Membuat procedure untuk mengupdate total transaksi (denda 10%) bagi yang telat menggambil lebih dr 3 hari setelah tanggal jadi
-    // $query = DB::statement("CALL update_total()");
+    public function jml_pemesan(Request $request){ 
+      $query = DB::selectOne("SELECT DISTINCT hitung_pemesan('$request->jml_pemesan') AS jml_pemesan FROM transaksi")->jml_pemesan;
 
-    //-- 4.Membuat index untuk tabel nama pemesan  berdasarkan tgl lahir
-    // $table->index(['pem_tgl_lahir']);
 
+      return view('zayn',compact('query'));
+    }
 }
 

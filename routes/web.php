@@ -99,7 +99,14 @@ Route::get('/delete/{id}','MainController@delete')->name('delete.trolly');
 
 Route::get('/trolly', 'MainController@select')->name('select.trolly');
 
-Route::post('/iqbal', 'MainController@tanggal')->name('tanggal');
+// SEMUA FUNGSI DAN ROUTE DI HALAMAN IQBAL
 Route::get('/iqbal', function () {
     return view('iqbal');
 });
+Route::post('/iqbal', 'MainController@tanggal')->name('tanggal');
+
+
+Route::get('/zayn', function () {
+    return view('zayn');
+});
+Route::post('/zayn', 'MainController@jml_pemesan')->name('jml_pemesan');
