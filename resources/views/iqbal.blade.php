@@ -1,16 +1,18 @@
 @extends('layouts.pembelian')
 
 @section('content')
--- 2.Membuat fungsi untuk menghitung jumlah pendapatan pada tanggal tertentu 
+Membuat fungsi untuk menghitung jumlah pendapatan pada tanggal tertentu <br>
+<h5>masukkan tanggal</h5>
 <form action="{{ route('tanggal') }}" method="POST">
 	{{ csrf_field() }}
-	<input type="date" name="tanggal">
+	<input type="date" name="tanggal" class="col-md-8">
 	<button type="submit">submit</button>
 </form>
+<br><br>
 @if(isset ($query))
-	<table>
+<table class="table table-bordered table-hover table-light table-striped">
 		<thead>
-			<th>tanggal</th>
+			<th>total pendapatan</th>
 		</thead>
 		<tbody>
 			

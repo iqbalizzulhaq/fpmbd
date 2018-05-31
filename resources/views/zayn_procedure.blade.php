@@ -1,3 +1,6 @@
+@extends('layouts.pembelian')
+
+@section('content')
 <form action="{{ route('status') }}" method="POST">
 	{{ csrf_field() }}
 	<input type="text" name="status" placeholder="masukkan id transaksi">
@@ -17,3 +20,4 @@
 		</tbody>
 	</table>
 	@endif
+	@endsection

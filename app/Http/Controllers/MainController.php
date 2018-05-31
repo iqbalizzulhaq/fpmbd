@@ -63,15 +63,7 @@ class MainController extends Controller
       return redirect()->route('show.trolly')->with(['success'=>'delete sukses']);
     }
 
-    // $query = DB::select(selext hhjkj);
-    // $query = DB::statement(selext hhjkj);
-    // $query = DB::unprepared(selext hhjkj);
-
-
-    // iqbal 
-    // 1.trigeer
-
-    //2.Membuat fungsi untuk menghitung jumlah pendapatan pada tanggal tertentu
+   
     public function tanggal(Request $request){ 
       $query = DB::selectOne("SELECT DISTINCT tampil_pendapatan('$request->tanggal') AS total from transaksi")->total;
 
@@ -83,9 +75,9 @@ class MainController extends Controller
       return view('iqbal_trigger',compact('query2'));
     }
 
-    public function denda(Request $request){ 
-      $query3 = DB::selectOne("CALL update_total()")->denda;
-      return view('iqbal_procedure',compact('query3'));
+    public function hasil_proc(Request $request){ 
+      $query4 = DB::select("SELECT * FROM transaksi");
+      return view('iqbal_procedure',compact('query4'));
     }
 
 
@@ -103,12 +95,13 @@ class MainController extends Controller
     }
 
     public function status(Request $request){ 
-      $query3 = DB::selectOne("CALL update_status('$request->status')")->status;
+      $query3 = DB::selectOne("CALL update_status('$request->status')");
       return view('zayn_procedure',compact('query3'));
     }
-    public function hasil_proc(Request $request){ 
-      $query4 = DB::select("SELECT * FROM transaksi");
-      return view('hasil_proc',compact('query4'));
+    public function zayn_procedure(Request $request){ 
+      $query4 = DB::select("SELECT * FROM PENGIRIMAN");
+      return view('hasil_zayn_procedure',compact('query4'));
     }
+    
 }
 
