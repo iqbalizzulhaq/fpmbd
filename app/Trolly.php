@@ -19,7 +19,7 @@ class trolly extends Model
        ,'bank'
        ,'no_rekening'
        ,'nama'
-       ,'total'
+       ,'total'  
     ];
     public $timestamps = false;
 }
