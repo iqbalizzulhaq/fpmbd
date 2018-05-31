@@ -106,5 +106,9 @@ class MainController extends Controller
       $query3 = DB::selectOne("CALL update_status('$request->status')")->status;
       return view('zayn_procedure',compact('query3'));
     }
+    public function hasil_proc(Request $request){ 
+      $query4 = DB::select("SELECT * FROM transaksi");
+      return view('hasil_proc',compact('query4'));
+    }
 }
 
