@@ -104,9 +104,21 @@ Route::get('/iqbal', function () {
     return view('iqbal');
 });
 Route::post('/iqbal', 'MainController@tanggal')->name('tanggal');
+Route::get('/iqbal_trigger', 'MainController@trigger_zayn')->name('trigger_iqbal');
 
 
-Route::get('/zayn', function () {
-    return view('zayn');
+
+// SEMUA FUNGSI DAN ROUTE DI HALAMAN ZAYN
+Route::get('/zaynnya', function () {
+    return view('mbd.zaynnya');
 });
-Route::post('/zayn', 'MainController@jml_pemesan')->name('jml_pemesan');
+Route::get('/zayn_function', function () {
+    return view('zayn_function');
+});
+Route::post('/zayn_function', 'MainController@jml_pemesan')->name('jml_pemesan');
+Route::get('/zayn_trigger', 'MainController@trigger_zayn')->name('trigger_zayn');
+
+Route::get('/zayn_procedure', function () {
+    return view('zayn_procedure');
+});
+Route::post('/zayn_procedure', 'MainController@status')->name('status');

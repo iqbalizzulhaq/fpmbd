@@ -78,18 +78,33 @@ class MainController extends Controller
 
       return view('iqbal',compact('query'));
     }
+    public function trigger_iqbal(Request $request){ 
+      $query2 = DB::select("SELECT * FROM pemesan2");
+      return view('iqbal_trigger',compact('query2'));
+    }
+
+    public function denda(Request $request){ 
+      $query3 = DB::selectOne("CALL update_total()")->denda;
+      return view('iqbal_procedure',compact('query3'));
+    }
 
 
+    
+
+    // --------------- muzayyin -------------------
     public function jml_pemesan(Request $request){ 
       $query = DB::selectOne("SELECT DISTINCT hitung_pemesan('$request->jml_pemesan') AS jml_pemesan FROM transaksi")->jml_pemesan;
-
-
-      return view('zayn',compact('query'));
+      return view('zayn_function',compact('query'));
     }
 
     public function trigger_zayn(Request $request){ 
       $query2 = DB::select("SELECT * FROM pegawai2");
-      return view('zayn',compact('query2'));
+      return view('zayn_trigger',compact('query2'));
+    }
+
+    public function status(Request $request){ 
+      $query3 = DB::selectOne("CALL update_status('$request->status')")->status;
+      return view('zayn_procedure',compact('query3'));
     }
 }
 
