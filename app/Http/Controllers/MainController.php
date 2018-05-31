@@ -86,5 +86,10 @@ class MainController extends Controller
 
       return view('zayn',compact('query'));
     }
+
+    public function trigger_zayn(Request $request){ 
+      $query2 = DB::select("SELECT * FROM pegawai2");
+      return view('zayn',compact('query2'));
+    }
 }
 
