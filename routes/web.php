@@ -124,4 +124,10 @@ Route::get('/zayn_procedure', function () {
 Route::get('/hasil_zayn_procedure', function () {
     return view('hasil_zayn_procedure');
 });
-Route::post('/zayn_procedure', 'MainController@zayn_procedure')->name('zayn_procedure');
+Route::post('/zayn_procedure', 'MainController@status')->name('status');
+Route::get('/hasil_zayn_procedure', 'MainController@zayn_procedure')->name('zayn_procedure');
+
+Route::get('/zayn_cursor', function () {
+    return view('zayn_cursor');
+});
+Route::get('/zayn_cursor', 'MainController@cursor')->name('cursor');

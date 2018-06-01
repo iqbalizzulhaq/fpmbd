@@ -102,6 +102,15 @@ class MainController extends Controller
       $query4 = DB::select("SELECT * FROM PENGIRIMAN");
       return view('hasil_zayn_procedure',compact('query4'));
     }
+    public function cursor(Request $request){ 
+      $query5 = DB::select("SELECT p.pem_nama,b.b_jenis
+                            FROM pemesan p 
+                            JOIN transaksi t ON p.pem_id=t.pem_id  
+                            JOIN detil_nota dn ON dn.t_id=t.t_id
+                            JOIN barang b ON b.b_id=dn.b_id
+                            WHERE 2018 - EXTRACT(YEAR FROM pem_tgl_lahir)>25;");
+      return view('zayn_cursor',compact('query5'));
+    }
     
 }
 
